@@ -26,4 +26,3 @@ This repository contains code for predicting stock closing prices using machine 
    ```bash
    git clone https://github.com/tinopenchev/Supervised-Learning---Stock-Price-Predictions.git
    cd Supervised-Learning---Stock-Price-Predictions
-# Supervised-Learning---Stock-Price-Predictions
